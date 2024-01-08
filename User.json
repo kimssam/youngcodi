@@ -1,21 +1,21 @@
 [
 	{"id":1,
-	"name":"김태리",
+	"name":"김 태리",
 	"age":24,
 	"personalColor":"blue"
 	},
 	{"id":2,
-	"name":"김희애",
+	"name":"김 희애",
 	"age":40,
 	"personalColor":"brown"
 	},
 	{"id":3,
-	"name":"한가인",
+	"name":"한 가인",
 	"age":30,
 	"personalColor":"pink"
 	},
 	{"id":4,
-	"name":"송혜교",
+	"name":"송 혜교",
 	"age":35,
 	"personalColor":"purple",
 	"hobbies":["game","soccer"]
