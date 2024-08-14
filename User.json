@@ -1,8 +1,7 @@
 [
 	{"id":1,
 	"name":"김 태리",
-	"age":24,
-	"personalColor":"blue"
+	"age":24
 	},
 	{"id":2,
 	"name":"김 희애",
