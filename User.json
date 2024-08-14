@@ -7,19 +7,19 @@
 	"name":"김 희애",
 	"age":40,
 	"personalColor":"hotpink",
-	"hobbies" : ["travel"]
+	"hobbies": ["travel"]
 	},
 	{"id":3,
 	"name":"한 가인",
 	"age":30,
 	"personalColor":"pink",
-	"hobbies" : ["game", "soccer"]
+	"hobbies": ["game", "soccer"]
 	},
 	{"id":4,
 	"name":"송 혜교",
 	"age":35,
 	"personalColor":"purple",
-	"hobbies" : ["watchingMovie", "playingthePiano"]
+	"hobbies": ["watchingMovie", "playingthePiano"]
 	}
 ]
 
